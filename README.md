@@ -65,7 +65,7 @@
     The answer is stored in the second top element of the stack and the top element is removed so that the top element contains
     the result and the stack is one element shorter.
 
-## Author
+## Authors
 
     - Abeeb Raheem
     - Junaid-eko Raimot
